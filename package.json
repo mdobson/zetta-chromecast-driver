@@ -1,0 +1,29 @@
+{
+  "name": "zetta-chromecast-driver",
+  "version": "0.1.0",
+  "description": "A zetta driver for the chromecast.",
+  "main": "index.js",
+  "dependencies": {
+    "zetta-device": "~0.7.0",
+    "nodecast": "~0.0.9",
+    "zetta-scout": "~0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mdobson/zetta-chromecast-driver.git"
+  },
+  "keywords": [
+    "zetta",
+    "chromecast"
+  ],
+  "author": "Matthew Dobson <@mdobs>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdobson/zetta-chromecast-driver/issues"
+  },
+  "homepage": "https://github.com/mdobson/zetta-chromecast-driver"
+}
